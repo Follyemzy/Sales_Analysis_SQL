@@ -50,6 +50,6 @@ The dataset includes the following fields:
 - Customer distribution by region and segment  
 - Number of unique customers per region  
 
-(Full SQL queries available in `sales_analysis in SQL`)
+(Full SQL queries available in `sales_analysis _Queries`)
 
 
