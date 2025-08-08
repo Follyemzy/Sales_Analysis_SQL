@@ -50,9 +50,6 @@ The dataset includes the following fields:
 - Customer distribution by region and segment  
 - Number of unique customers per region  
 
-(Full SQL queries available in `sales_analysis_project.sql`)
+(Full SQL queries available in `sales_analysis in SQL`)
 
-## How to Use  
-1. Clone this repository:  
-```bash
-git clone https://github.com/YourUsername/sales-analysis-sql.git
+
